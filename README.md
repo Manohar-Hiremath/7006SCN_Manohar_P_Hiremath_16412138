@@ -35,7 +35,7 @@ The goal of this project is to demonstrate **big data processing, feature engine
 
 ---
 
-## 🧪 Project Workflow
+##  Project Workflow
 
 ### 1️ Data Loading
 
